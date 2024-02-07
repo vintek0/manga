@@ -1,0 +1,7 @@
+{
+  "name": "vintek",
+  "website": "",
+  "description": "I operate on some data",
+  "logo": "https://r.resimlink.com/cAOKolM.png",
+  "twitter": "https://twitter.com/tyfnddf"
+}
